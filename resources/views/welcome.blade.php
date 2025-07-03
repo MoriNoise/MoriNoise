@@ -65,9 +65,9 @@
         <div class="row">
             <div class="col-12 d-flex flex-wrap align-items-center">
                 <div class="logo-box">
-                    <a href="https://gerold.ogwordpress.ir/demo/index.html">
+
                         <img src="assets/img/logo/logo-dark.png" alt="">
-                    </a>
+
                 </div>
 
                 <div class="header-info-list d-none d-md-inline-block">
@@ -110,9 +110,9 @@
         <div class="row">
             <div class="col-12 d-flex flex-wrap align-items-center">
                 <div class="logo-box">
-                    <a href="https://gerold.ogwordpress.ir/demo/index.html">
+
                         <img src="assets/img/logo/logo-dark.png" alt="">
-                    </a>
+
                 </div>
 
                 <div class="header-info-list d-none d-md-inline-block">
@@ -1237,9 +1237,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-item wow fadeInUp" data-wow-delay=".5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                         <div class="blog-thumb">
-                            <a href="https://gerold.ogwordpress.ir/demo/blog-details-light.html">
-                                <img src="%D8%AC%D8%B1%D9%88%D9%84%D8%AF%20-%20%D9%82%D8%A7%D9%84%D8%A8%20HTML5%20%D9%86%D9%85%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%20%D8%B4%D8%AE%D8%B5%DB%8C_files/1_003.jpg" alt="">
-                            </a>
+
                             <a href="#" class="category">آموزشی</a>
                         </div>
 
@@ -1250,14 +1248,14 @@
                                     <li><i class="fa-light fa-comments"></i> <a href="#">نظرات (0)</a></li>
                                 </ul>
                             </div>
-                            <h3 class="blog-title"><a href="https://gerold.ogwordpress.ir/demo/blog-details-light.html">10 طراح برتر رابط کاربری ux</a></h3>
+                            <h3 class="blog-title"><a href="">10 طراح برتر رابط کاربری ux</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-item wow fadeInUp" data-wow-delay=".6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                         <div class="blog-thumb">
-                            <a href="https://gerold.ogwordpress.ir/demo/blog-details-light.html">
+                            <a href="">
                                 <img src="%D8%AC%D8%B1%D9%88%D9%84%D8%AF%20-%20%D9%82%D8%A7%D9%84%D8%A8%20HTML5%20%D9%86%D9%85%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%20%D8%B4%D8%AE%D8%B5%DB%8C_files/2_003.jpg" alt="">
                             </a>
                             <a href="#" class="category">نکات کلیدی</a>
@@ -1269,14 +1267,14 @@
                                     <li><i class="fa-light fa-comments"></i> <a href="#">نظرات (0)</a></li>
                                 </ul>
                             </div>
-                            <h3 class="blog-title"><a href="https://gerold.ogwordpress.ir/demo/blog-details-light.html">راهنمای توسعه اپلیکیشن</a></h3>
+                            <h3 class="blog-title"><a href="">راهنمای توسعه اپلیکیشن</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-item wow fadeInUp" data-wow-delay=".7s" style="visibility: hidden; animation-delay: 0.7s; animation-name: none;">
                         <div class="blog-thumb">
-                            <a href="https://gerold.ogwordpress.ir/demo/blog-details-light.html">
+                            <a href="">
                                 <img src="%D8%AC%D8%B1%D9%88%D9%84%D8%AF%20-%20%D9%82%D8%A7%D9%84%D8%A8%20HTML5%20%D9%86%D9%85%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%20%D8%B4%D8%AE%D8%B5%DB%8C_files/3_002.jpg" alt="">
                             </a>
                             <a href="#" class="category">طراحی</a>
@@ -1288,7 +1286,7 @@
                                     <li><i class="fa-light fa-comments"></i> <a href="#">نظرات (0)</a></li>
                                 </ul>
                             </div>
-                            <h3 class="blog-title"><a href="https://gerold.ogwordpress.ir/demo/blog-details-light.html">آموزش طراحی گرافیک رایگان</a></h3>
+                            <h3 class="blog-title"><a href="">آموزش طراحی گرافیک رایگان</a></h3>
                         </div>
                     </div>
                 </div>
