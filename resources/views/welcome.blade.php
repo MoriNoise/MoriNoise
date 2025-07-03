@@ -72,7 +72,7 @@
 
                 <div class="header-info-list d-none d-md-inline-block">
                     <ul class="ul-reset">
-                        <li><a href="mailto:mail@gerolddesign.com">mrking0151@gmail.com</a></li>
+                        <li><a href="mailto:mrking0151@gmail.com">mrking0151@gmail.com</a></li>
                     </ul>
                 </div>
 
@@ -117,7 +117,7 @@
 
                 <div class="header-info-list d-none d-md-inline-block">
                     <ul class="ul-reset">
-                        <li><a href="mailto:mail@gerolddesign.com">mrking0151@gmail.com</a></li>
+                        <li><a href="mailto:mrking0151@gmail.com">mrking0151@gmail.com</a></li>
                     </ul>
                 </div>
 
@@ -254,7 +254,7 @@
                         <div class="service-item current d-flex flex-wrap align-items-center wow fadeInUp" data-wow-delay=".5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                             <div class="left-box d-flex flex-wrap align-items-center">
                                 <span class="number">01</span>
-                                <h3 class="service-title">طراحی برندینگ</h3>
+                                <h3 class="service-title">فلاتر</h3>
                             </div>
                             <div class="right-box">
                                 <p>
@@ -300,7 +300,7 @@
                         <div class="service-item d-flex flex-wrap align-items-center wow fadeInUp mleave" data-wow-delay=".8s" style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                             <div class="left-box d-flex flex-wrap align-items-center">
                                 <span class="number">04</span>
-                                <h3 class="service-title">طراح گرافیک</h3>
+                                <h3 class="service-title">php</h3>
                             </div>
                             <div class="right-box">
                                 <p>
@@ -336,7 +336,7 @@
                         <div class="service_details_content">
                             <div class="service_info">
                                 <h6 class="subtitle">خدمات</h6>
-                                <h2 class="title">طراح UI/UX  </h2>
+                                <h2 class="title">طراح سایت  </h2>
                                 <div class="desc">
                                     <p>
                                         لورم ایپسوم متن ساختگی با تولید سادگی
@@ -387,19 +387,19 @@
                                     <li class="active">
                                         <button>
                                             <i class="flaticon-design"></i>
-                                            طراحی برندینگ
+                                            طراحی سایت
                                         </button>
                                     </li>
                                     <li>
                                         <button>
                                             <i class="flaticon-3d-movie"></i>
-                                            انیمیشن سه بعدی
+                                            فلاتر
                                         </button>
                                     </li>
                                     <li>
                                         <button>
                                             <i class="flaticon-ux-design"></i>
-                                            طراحی   UI/UX
+                                            php
                                         </button>
                                     </li>
                                     <li>
@@ -465,9 +465,9 @@
                     <div class="portfolio-filter text-center wow fadeInUp" data-wow-delay=".5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                         <div class="button-group filter-button-group">
                             <button data-filter="*" class="active">همه</button>
-                            <button data-filter=".uxui" class=".portfolio-filter .button-group">UX/UI</button>
-                            <button data-filter=".branding" class=".portfolio-filter .button-group">برندینگ</button>
-                            <button data-filter=".mobile-app" class=".portfolio-filter .button-group">اپیکیشن</button>
+                            <button data-filter=".uxui" class=".portfolio-filter .button-group">laravel</button>
+                            <button data-filter=".branding" class=".portfolio-filter .button-group">flutter</button>
+                            <button data-filter=".mobile-app" class=".portfolio-filter .button-group">go</button>
                             <div class="active-bg .portfolio-filter .button-group" style="left: 305.517px; width: 76.25px;"></div>
                         </div>
                     </div>
